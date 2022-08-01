@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\bin\Debug\net6.0\percentageCal.exe
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\bin\Debug\net6.0\percentageCal.deps.json
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\bin\Debug\net6.0\percentageCal.runtimeconfig.json
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\bin\Debug\net6.0\percentageCal.dll
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\bin\Debug\net6.0\percentageCal.pdb
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.dll
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\refint\percentageCal.dll
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.pdb
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\percentageCal.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\percentageCal\percentageCal\obj\Debug\net6.0\ref\percentageCal.dll
